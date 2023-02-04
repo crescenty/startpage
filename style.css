@@ -3,10 +3,10 @@
 html {
       background-color: #fcfcfd;
       align-items: center;
-      color: #fcfcfd;
+      color: #101828;
       display: flex;
       font-family: 'Ubuntu Mono', monospace;
-      font-size: 25px;
+      font-size: 20px;
       height: 100%;
       justify-content: center;
       margin: 0;
@@ -59,7 +59,7 @@ html {
 
     img {
       border: 2px solid #fcfcfd;
-      height: auto;
+      height: 900px;
       object-fit: cover;
       object-position: 50% 100%;
       width: 10em;
