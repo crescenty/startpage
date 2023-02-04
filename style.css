@@ -59,10 +59,10 @@ html {
 
     img {
       border: 2px solid #fcfcfd;
-      height: 900px;
+      height: auto;
       object-fit: cover;
       object-position: 50% 100%;
-      width: 10em;
+      width: 15em;
     }
 
 input {
